@@ -6,7 +6,9 @@ The application provides a conversational interface for patients to make and man
 
 ## Demo
 
-▶️ **[Watch the demo video](./demo.mp4)**
+https://github.com/user-attachments/assets/ab0ea7b1-08e2-4542-891d-42382539d3dc
+
+
 
 The demo shows:
 
