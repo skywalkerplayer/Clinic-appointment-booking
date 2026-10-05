@@ -72,16 +72,16 @@ def chat_page():
 
         with chat:
             for role, text in messages:
-                if role == username:
+                if role == "assistant":
                     ui.chat_message(
                         text,
-                        name=username,
-                        sent=True
+                        name="AI"
                     )
                 else:
                     ui.chat_message(
                         text,
-                        name="AI"
+                        name=username,
+                        sent=True
                     )
 
 
